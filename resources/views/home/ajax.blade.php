@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-    <title>Ajax</title>
+    <title>Document</title>
 </head>
 <body>
     <input type="button" value="pick it!" id="btn"/>
