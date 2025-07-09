@@ -56,7 +56,6 @@ Route::group(['prefix'=>'db'],function(){
     Route::get('show',[AdminController::class,'show']);
     Route::get('modelShow',[AdminController::class,'modelShow']);
 
-
     Route::get('user',[AdminController::class,'view']);
 });
 
